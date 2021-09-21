@@ -1,2 +1,2 @@
 # Console RPG Game
- Assignment 1
+ Text-based RPG game for the Assighment 1.
